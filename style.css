@@ -23,9 +23,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 10px 0 10px;
+    padding: 0 10px;
     border-bottom: 1px solid seashell;
     background-color: inherit;
+}
+
+nav {
 }
 
 #logo {
@@ -59,7 +62,7 @@ background-color: black;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 50px 0px 50px 0px;
+    margin: 50px 0px;
 }
 
 .tea-of-the-month > h2 {
