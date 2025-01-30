@@ -35,6 +35,7 @@ a {
     justify-content: center;
     height: 700px;
     background-image: url(src/images/img-mission-background.webp);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     flex-direction: column;
