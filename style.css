@@ -28,5 +28,16 @@ header {
 }
 
 a {
-    color: seashell;
+    color: inherit;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    padding-top: 69px;
+}
+
+.hero img {
+    height: 700px
+    
 }
