@@ -55,7 +55,6 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px red solid;
 }
 
 .teas-container {
@@ -64,7 +63,6 @@ a {
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    border: 1px blue solid
 }
 
 .single-tea > img {
