@@ -68,6 +68,7 @@ a {
     justify-content: center;
     align-items: center;
     margin: 50px 0px;
+    scroll-margin-top: 100px;
 }
 
 .tea-of-the-month>h2 {
@@ -102,6 +103,7 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    scroll-margin-top: 100px;
 }
 
 .location-container {
