@@ -54,7 +54,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin: 50px 0px 50px 0px;
 }
 
 .tea-of-the-month > h2 {
