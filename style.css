@@ -55,8 +55,9 @@ a {
     flex-direction: column;
 }
 
-.tea-container {
+.teas-container {
     display: inherit;
+    flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
