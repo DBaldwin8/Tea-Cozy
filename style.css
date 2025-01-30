@@ -65,3 +65,7 @@ a {
     height: 200px;
     width: 3000px;
 }
+
+.single-tea > h4 {
+    margin-top: 10px;
+}
