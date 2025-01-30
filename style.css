@@ -54,3 +54,14 @@ a {
     display: flex;
     flex-direction: column;
 }
+
+.tea-container {
+    display: inherit;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.single-tea > img {
+    height: 200px;
+    width: 3000px;
+}
