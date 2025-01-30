@@ -39,3 +39,9 @@ a {
     background-size: cover;
     flex-direction: column;
 }
+
+.text-container {
+    background-color: black;
+    padding: 20px;
+    opacity: 0.9;
+}
