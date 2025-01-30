@@ -8,7 +8,7 @@ body {
     font-family: Helvetica, sans-serif;
     font-size: 22px;
     color: seashell;
-    opacity: 0.9;
+    opacity: 0.5;
     text-align: center;
 }
 
@@ -50,11 +50,15 @@ a {
 }
 
 .tea-of-the-month {
-    
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 50px;
+}
+
+.tea-of-the-month > h2 {
+    margin-bottom: 20px;
 }
 
 .teas-container {
@@ -63,6 +67,7 @@ a {
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    margin-top: 30px;
 }
 
 .single-tea > img {
@@ -71,5 +76,5 @@ a {
 }
 
 .single-tea > h4 {
-    margin-top: 10px;
+    margin: 10px 0px 20px 0px;
 }
