@@ -17,6 +17,7 @@ body {
 }
 
 header {
+    position: fixed;
     height: 69px;
     width: 100%;
     display: flex;
@@ -24,6 +25,7 @@ header {
     align-items: center;
     padding: 0 10px 0 10px;
     border-bottom: 1px solid seashell;
+    background-color: inherit;
 }
 
 #logo {
@@ -46,8 +48,7 @@ a {
 }
 
 .text-container {
-    background-color: black;
-    opacity: 0.9;
+background-color: black;
     *{
         padding: 10px
     }
