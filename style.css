@@ -49,3 +49,8 @@ a {
     }
 }
 
+.tea-of-the-month {
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+}
