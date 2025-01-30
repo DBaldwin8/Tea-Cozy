@@ -35,9 +35,9 @@ a {
     justify-content: center;
     height: 700px;
     background-image: url(src/images/img-mission-background.webp);
-    background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     flex-direction: column;
 }
 
@@ -77,4 +77,13 @@ a {
 
 .single-tea > h4 {
     margin: 10px 0px 20px 0px;
+}
+
+.locations {
+    background-image: url(src/images/img-locations-background.webp);
+    height: 500px;
+    margin: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
