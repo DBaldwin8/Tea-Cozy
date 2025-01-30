@@ -50,16 +50,20 @@ a {
 }
 
 .tea-of-the-month {
-    width: 1000px;
+    
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    border: 1px red solid;
 }
 
 .teas-container {
+    width: 1000px;
     display: inherit;
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    border: 1px blue solid
 }
 
 .single-tea > img {
