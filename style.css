@@ -96,7 +96,7 @@ a {
 .locations {
     background-image: url(src/images/img-locations-background.webp);
     height: 500px;
-    margin: 50px 50px 20px 50px;
+    margin: 50px 50px 10px 50px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -128,9 +128,10 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding-bottom: 50px;
 }
 
 .copyright {
     text-align: left;
-    margin-left: 20px;
+    margin: 25px 0 30px 20px;
 }
